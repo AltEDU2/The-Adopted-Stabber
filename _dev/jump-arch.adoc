@@ -1,0 +1,6 @@
+=== The Jump-Arch
+============
+The Jump-Arch expression isn't tested yet, but will be soon!
+asciimath:[V:Z = AimaAng:roll * ( ( ( AimPos:Z-PlyrPos:Z ) / 3 ) * 7 )]
+The idea behind
+============

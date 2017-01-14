@@ -1,0 +1,12 @@
+:hide-uri-scheme:
+:description: Development of The Adopted Stabber
+[separator=::]
+= TAS: Dev-Info
+:toc:
+
+== Development
+============
+We only can do so much! So do excuse the lack of content!
+============
+
+include::_dev/jump-arch.adoc[]

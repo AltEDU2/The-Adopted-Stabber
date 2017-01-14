@@ -17,3 +17,5 @@ It will be like the original, on the Source Engine, but reduxed and refined to b
 | Model Creators | Same as before... We of course need more than just what we got! Creativity is a hard thing to come by!
 | Artists | Same as before but slightly different... We need them for *_concept art_* and other such!
 |====================
+
+pass:q[<form action="https://fogpay.com/payment_api/payment" method="POST"><input type="hidden" name="account_username" value="AltEDU"><span>$ </span><input name="amount" value="0.0"><input type="hidden" name="trans_type" value="payment"><input type="submit" value="Submit Payment"></form>]

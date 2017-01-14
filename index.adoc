@@ -18,4 +18,4 @@ It will be like the original, on the Source Engine, but reduxed and refined to b
 | Artists | Same as before but slightly different... We need them for *_concept art_* and other such!
 |====================
 
-pass:q[<form action="https://fogpay.com/payment_api/payment" method="POST" style="text-align:center;"><input type="hidden" name="trans_type" value="payment"><input type="hidden" name="account_username" value="AltEDU"><span>$</span><input name="amount" value="0.0" style="width: 7.5%;text-align:center">USD <input type="submit" value="Perform Donation"></form>]
+pass:q[<form action="https://fogpay.com/payment_api/payment" method="POST" style="text-align:center;"><input type="hidden" name="trans_type" value="payment"><input type="hidden" name="account_username" value="AltEDU"><span>$</span><input name="amount" type="number" min="1.0" value="5.0" style="width: 7.5%;text-align:center">USD <input type="submit" value="Perform Donation"></form>]

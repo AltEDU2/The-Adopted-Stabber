@@ -1,5 +1,5 @@
 == Donating
 ===========
 If you do not know how to get bitcoins, I suggest going to https://www.virwox.com/ if you don't have any bitcoins!
-pass:q[<form action="https://fogpay.com/payment_api/payment" method="POST" style="text-align:center;"><input type="hidden" name="trans_type" value="payment"><input type="hidden" name="account_username" value="AltEDU"><span>$</span><input name="amount" type="number" min="1.0" value="5.0" style="width: 7.5%;text-align:center">USD <input type="submit" value="Perform Donation"></form>]
+pass:q[<form action="https://fogpay.com/payment_api/payment" method="POST" style="text-align:center;"><input type="hidden" name="trans_type" value="payment"><input type="hidden" name="account_username" value="AltEDU"><span>$</span><input name="amount" type="number" min="1.0" value="5.0" style="width: 7.5%;text-align:center">USD <input type="hidden" name="item_id" value="1"><input type="submit" value="Perform Donation"></form>]
 ===========

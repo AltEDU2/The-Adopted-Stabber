@@ -1,8 +1,9 @@
 :hide-uri-scheme:
 :description: Recreating The Hidden: Source, one step at a time!
-[separator=::]
+
+
+
 = TAS: The Adopted Stabber
-:toc:
 
 include::_index/introduction.adoc[]
 
@@ -11,3 +12,5 @@ include::_index/links.adoc[]
 include::_index/needs.adoc[]
 
 include::_index/donating.adoc[]
+
+include::_general/todo.adoc[]

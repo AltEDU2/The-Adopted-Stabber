@@ -1,5 +1,10 @@
 == Links
-* https://discord.gg/VEDV6nt[Discord]
-* https://github.com/AltEDU2/The-Adopted-Stabber/[Github]
-- https://altedu2.github.io/The-Adopted-Stabber/dev.html[Dev Page]
-* https://l.xoytek.xyz/The-Adopted-Stabber[This]
+===========
+[width="100%"]
+|====================
+| https://discord.gg/VEDV6nt[Discord]
+| https://github.com/AltEDU2/The-Adopted-Stabber/[Github]
+| https://altedu2.github.io/The-Adopted-Stabber/dev.html[Dev Page]
+| https://l.xoytek.xyz/The-Adopted-Stabber[This]
+|====================
+===========

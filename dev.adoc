@@ -4,6 +4,8 @@
 = TAS: Dev-Info
 :toc:
 
+include::_general/todo.adoc[]
+
 == Development
 ============
 We only can do so much! So do excuse the lack of content!

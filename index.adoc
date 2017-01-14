@@ -1,6 +1,14 @@
 :hide-uri-scheme:
-
+:description: Recreating The Hidden: Source, one step at a time!
+:toc:
 include::_index/introduction.adoc[]
+
 include::_index/links.adoc[]
+
 include::_index/needs.adoc[]
+
 include::_index/donating.adoc[]
+
+//include::_index/development.adoc[]
+
+include::_index/*.adoc[]

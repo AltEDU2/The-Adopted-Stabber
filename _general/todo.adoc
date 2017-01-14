@@ -1,4 +1,4 @@
 == To-Do
 ===========
-- [ ] Find an appropriate expression for the https://altedu2.github.io/The-Adopted-Stabber/dev.html#truethe-jump-arch[Jump-Arch]!
+- [*] Find an appropriate expression for the https://altedu2.github.io/The-Adopted-Stabber/dev.html#truethe-jump-arch[Jump-Arch]!
 ===========

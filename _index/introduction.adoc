@@ -1,0 +1,8 @@
+== The Adopted Stabber
+============
+Hello there! This is a W.I.P...!
+We're basically recreating the concept of The Hidden: Source but a bit differently...
+Recreating it will be fun! The mechanics aren't hard to get down pat!
+
+It will be like the original, on the Source Engine, but reduxed and refined to be newer with a differences such as game play mechanics, audio-cues, etc!
+============

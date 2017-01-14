@@ -1,0 +1,19 @@
+== The Adopted Stabber
+============
+Hello there! This is a W.I.P...!
+We're basically recreating the concept of The Hidden: Source but a bit differently...
+Recreating it will be fun! The mechanics aren't hard to get down pat!
+
+It will be like the original, on the Source Engine, but reduxed and refined to be newer with a differences such as game play mechanics, audio-cues, etc!
+============
+
+== NEEDS
+[width="100%",cols="1s,5",frame="none",options="header"]
+|====================
+| Job Title... | Reasonning on why we need them...
+| Idealists | We need people who are creative!!! We all have a little spunk, but some more than others!
+| Voice Actors | We will need some voluntary voice acting if we decide to place a voice-play radial menu!
+| Map Creators | We of course need more than just what we got! Creativity is a hard thing to come by!
+| Model Creators | Same as before... We of course need more than just what we got! Creativity is a hard thing to come by!
+| Artists | Same as before but slightly different... We need them for *_concept art_* and other such!
+|====================

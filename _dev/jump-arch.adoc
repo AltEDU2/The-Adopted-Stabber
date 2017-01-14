@@ -2,5 +2,5 @@
 ============
 The Jump-Arch expression isn't tested yet, but will be soon!
 asciimath:[V:Z = AimaAng:roll * ( ( ( AimPos:Z-PlyrPos:Z ) / 3 ) * 7 )]
-The idea behind
+The idea behind it is that since the player weighs `blah` and also calculates a propar `"arch"`! But again, it's only a theory! We will get further as we go along, but this is all we've got!
 ============
